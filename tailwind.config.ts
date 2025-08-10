@@ -52,6 +52,16 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				neon: {
+					green: 'hsl(var(--neon-green))',
+					blue: 'hsl(var(--neon-blue))',
+					purple: 'hsl(var(--cyber-purple))'
+				},
+				cyber: {
+					dark: 'hsl(var(--dark-bg))',
+					glass: 'hsl(var(--glass-bg))',
+					grid: 'hsl(var(--grid-color))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
